@@ -6,10 +6,10 @@ Project made by: Tiago Silva
 Doxygen documentation included.
 Example tables for playing and solutions included.
 
-Rules:
+->Rules:
 You must only have one lamp in a single line and column where that lamp is situated.
 
-Commands to play the game:
+->Commands to play the game:
 
 q - quit
 

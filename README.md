@@ -11,7 +11,7 @@ You must only have one lamp in a single line and column where that lamp is situa
 
 ->Commands to play the game:
 
-q - quit
+q - quit.
 
 cr - load a table. Ex: cr table1
 

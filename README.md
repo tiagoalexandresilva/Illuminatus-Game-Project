@@ -10,7 +10,8 @@ Rules:
 You must only have one lamp in a single line and column where that lamp is situated.
 
 Commands to play the game:
-q - quit.
+q - quit
+
 cr - load a table. Ex: cr table1
 jg - put (or remove) a lamp on coordinate X Y. Ex: jg 3 5
 mc - light up a certain lamp giving its coordinate. Ex. mc 3 5

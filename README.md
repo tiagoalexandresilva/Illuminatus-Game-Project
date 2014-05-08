@@ -21,7 +21,7 @@ mc - light up a certain lamp giving its coordinate. Ex. mc 3 5
 
 an - undo as many moves you want.
 
-gr - save a game you are playing. Ex: gr table1
+gr - save a game you are playing. Ex: gr mytable
 
 rsv - resolve the current game.
 
